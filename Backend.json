@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaItemWrap:Wrap_018_Magma"],
+    "itemGrants": ["AthenaCharacter:CID_734_Athena_Commando_F_BannerRed"],
     "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_192_PalmTree"],
+    "itemGrants": ["Pickaxe_ID_074_SharpDresser"],
     "price": 800
   },
    "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_155_Jellyfish"],
+    "itemGrants": ["AthenaDance:https:EID_ElectroSwing"],
     "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_453_Athena_Commando_F_GlowBro"],
+    "itemGrants": ["AthenaCharacter:CID_135_Athena_Commando_F_Jailbird"],
     "price": 1500
   },
   "daily5": {
-    "itemGrants": ["AthenaCharacter:CID_480_Athena_Commando_F_Bubblegum"],
+    "itemGrants": ["AthenaCharacter:CID_335_Athena_Commando_F_Scrapyard"],
     "price": 1200
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Popcorn"],
+    "itemGrants": ["AthenaDance:EID_BillyBounce"],
     "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_736_Athena_Commando_F_DonutDish"],
+    "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_737_Athena_Commando_F_DonutPlate"],
+    "itemGrants": ["CID_704_Athena_Commando_F_LollipopTrickster"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_020_Keg"],
-    "price": 1200
+    "itemGrants": ["AthenaPickaxe: Pickaxe_ID_363_LollipopTricksterFemale"],
+    "price": 800
   }
 }
